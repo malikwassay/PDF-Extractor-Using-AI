@@ -1,0 +1,17 @@
+# Core Flask framework
+Flask
+
+# Google Generative AI
+google-generativeai
+
+# HTTP client for file downloads
+httpx
+
+# DOCX file reading
+python-docx
+
+# PDF generation (fallback method)
+reportlab
+
+# sudo apt-get update 
+# sudo apt-get install libreoffice
